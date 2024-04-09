@@ -22,6 +22,6 @@ the image format is .jpg, the annotated file format is .json
 ## Annotation content
 for a vehicle, 2 rectangular bounding boxes and 5 labels were annotated, the rectangular bounding boxes include the front end or rear end of vehicle, and the whole vehicle; the labels included vehicle color, vehicle type, vehicle brand,vehicle orientation and shooting time; for a vehicle plate, a rectangular bounding box of license plate, the number of license plate (the number of license plate was replaced with six ‘*’) and the color of license plate were annotated
 ## Accuracy
-a rectangular bounding box is qualified when the deviation is not more than 3 pixels, and the qualified
+a rectangular bounding box is qualified when the deviation is not more than 3 pixels, and the qualified rate of the rectangular bounding box shall not be lower than 96%; the accuracy of labels of license plate number annotation, license plate color, vehicle color, vehicle type, vehicle brand, shooting time and vehicle orientation is not less than 96%
 # Licensing Information
 Commercial License
