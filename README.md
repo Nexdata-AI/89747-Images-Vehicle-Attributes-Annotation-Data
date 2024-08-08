@@ -3,7 +3,7 @@
 ## Description
 89,747 Images Vehicle Attributes Annotation Data. The data includes outdoor roads (highway, crossroad) scenes. The data covers multiple vehicle types, multiple vehicle colors, multiple license plate colors, multiple vehicle brands, different time, different vehicle orientations. For a vehicle, 2 rectangular bounding boxes and 5 labels were annotated, the rectangular bounding boxes include the front end or rear end of vehicle, and the whole vehicle; the labels included vehicle color, vehicle type, vehicle brand, vehicle orientation and shooting time; For a vehicle plate, a rectangular bounding box of license plate, the number of license plate and the color of license plate were annotated. This data can be used for tasks such as vehicle attributes analysis and license plate recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/121?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 # Specifications
